@@ -1,0 +1,14 @@
+.game-container {
+    margin: 20px auto;
+    width: 600px;
+    height: 150px;
+    border: 1px solid #ccc;
+    position: relative;
+  }
+  
+  #dino-game .runner-container {
+    position: relative;
+    width: 600px;
+    height: 150px;
+  }
+  
